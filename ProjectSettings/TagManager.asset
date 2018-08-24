@@ -5,6 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - PlayerFirePoint
+  - Enemy
+  - Waypoint
+  - Breadcrumb
+  - Bullet
+  - EnemyFirePoint
+  - EnemyBullet
   layers:
   - Default
   - TransparentFX
@@ -14,11 +20,11 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - Enemy
+  - Breadcrumb
+  - Waypoint
+  - Bullet
   - 
   - 
   - 
